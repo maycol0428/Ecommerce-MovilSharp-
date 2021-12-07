@@ -1,0 +1,23 @@
+__________BACKEND__________
+
+[x] Crear el API Product
+[x] Configurar el Error handling
+[x] Agregar Search, Filter & Pagination 
+[x] Authentication User & Password 
+[x] User Routes
+[x] Order Api
+    
+__________FRONTEND__________
+
+[x] Starting Frontend
+[x] Redux
+[x] Adding Filter
+[x] Login & Registration
+[x] Loading & Updating User
+[x] Change, Forgot & Reset Password
+[x] Creating Cart Component
+[x] Receiving Payment & Creating Order
+[x] User's Order & Review
+[] Creating Admin Routes
+[] Finalizing Before Deployment
+[] Deploying on Heroku
